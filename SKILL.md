@@ -2,7 +2,7 @@
 name: pitch-deck-engine
 description: Build, audit, or restructure startup fundraising decks and draft VC elevator pitches. Use for investor decks, seed or Series A fundraising, investor-facing demo days, and individual slides within them. Turns company evidence into an investment case, spoken pitch, slide plan, and optional rendered deck.
 metadata:
-  version: "0.2.4"
+  version: "1.0.0"
 ---
 
 # Pitch Deck Engine

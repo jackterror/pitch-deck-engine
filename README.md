@@ -2,6 +2,8 @@
 
 A modular AI-ready skill for startup pitch decks, slide audits, and VC elevator pitches, grounded in Slidebean, HBS, and MIT Sloan.
 
+**Current version** · `v1.0.0`
+
 ## What it does
 
 - Builds a short pitch brief, a spoken VC elevator pitch, and a slide plan from your company materials.
@@ -62,7 +64,7 @@ Use $pitch-deck-engine to review this seed deck, rewrite dense slides, and tie t
 
 A fictional warehouse startup has trial data and wants to claim shorter wait times. The slide headline reads **Three warehouses tested the prototype**. The proof underneath reads **12 deliveries in unpaid trials**. The evidence ledger flags the comparable wait-time measurement still needed.
 
-The skill is in preview. Two fictional cases have been walked through by hand. Full deck runs and PowerPoint and PDF export verification are pending. See [test prompts](TEST-PROMPTS.md) and [source notes](SOURCES.md).
+Two fictional cases have been walked through by hand. Fresh-session testing and a public worked example with matching PowerPoint and PDF exports are pending. See [test prompts](TEST-PROMPTS.md) and [source notes](SOURCES.md).
 
 ## Creator and license
 

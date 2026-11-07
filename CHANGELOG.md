@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.0 – 2026-11-07
+
+- Tagged the first public version of the skill and documented the remaining validation work.
+
 ## v0.2.4 – 2026-11-07
 
 - Added a slide copy pass for builds, audits, and revisions.
