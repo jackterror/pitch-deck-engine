@@ -16,9 +16,9 @@ Check that the deck distinguishes trial use from paid adoption and measured outc
 
 Check that October recurring revenue is $112,000 and the pilot revenue is separate. The 40 branches should read as a milestone. The pitch and deck should use the same figures.
 
-**Paired export.** “Use the Dock Orchard brief above to create an editable PPTX and a matching send-ahead PDF. Label the deck as a draft where supporting facts are still missing.”
+**Full-build delivery.** “Use the Dock Orchard brief above to build the full fundraising package.”
 
-Open both files. Check slide order, headline wording, figures, and legibility. Confirm the PPTX keeps editable text and the PDF excludes speaker notes.
+With export tools available, expect four separate files without specifying formats in the prompt. Open the working brief PDF, the spoken elevator pitch PDF, and both versions of the deck. Confirm that the script stands on its own and private working notes stay with the brief. Check shared claims and the ask across all three items. Check slide order, headline wording, figures, and legibility in both deck files. Confirm that the PPTX keeps editable text and the deck PDF excludes speaker notes. Where evidence is missing, check that the output flags the gap.
 
 ## Near-miss non-triggers
 

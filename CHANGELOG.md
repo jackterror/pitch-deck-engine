@@ -3,6 +3,7 @@
 ## v1.0.0 – 2026-11-07
 
 - Tagged the first public version of the skill and documented the remaining validation work.
+- Clarified the default full-build delivery. The working brief and spoken elevator pitch each get a PDF alongside the deck in PowerPoint and PDF.
 
 ## v0.2.4 – 2026-11-07
 

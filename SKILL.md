@@ -11,7 +11,7 @@ Build a case an investor can understand, retell to a partner, and challenge with
 
 ## Choose the scope
 
-- **Build.** Start with supplied company materials. Return a slide plan for an outline request. For a finished deck, default to a self-contained investor version and deliver an editable PowerPoint and matching PDF when supported. Follow any requested format or presentation destination.
+- **Build.** Start with supplied company materials. Return a slide plan for an outline request. For a full build, default to a self-contained investor deck and deliver the three separate items under [Full-build delivery](#full-build-delivery). Follow any requested format or presentation destination.
 - **Elevator pitch.** Use [pitch-brief.md](references/pitch-brief.md) to produce a short spoken investor pitch from the available facts. Review its claims and next step without building a full deck.
 - **Audit.** Diagnose the current deck before rewriting it. Use [slide-copy.md](references/slide-copy.md) to identify where a reader loses the point or has to work to find the proof. Prioritize fixes by slide, including the hardest unproven claim. Distinguish proposed revisions from confirmed corrections.
 - **Revise a slide.** Use [slide-copy.md](references/slide-copy.md). Keep neighboring slides and the overall argument in view. Flag any effect on shared claims or totals. Edit only the requested scope.
@@ -23,10 +23,18 @@ Build a case an investor can understand, retell to a partner, and challenge with
 3. **Map claims to proof.** Read [investment-case.md](references/investment-case.md). For each material claim record its ID, source and locator, date or period, evidence state, and any calculation or caveat. Resolve conflicts against the strongest available source and surface unresolved ones. Use public research for external facts and comparisons. Keep private inputs out of public queries. Use `[NEEDED: specific evidence]` in working copy for consequential gaps. Move optional gaps out of the core.
 4. **Build the story and the slides.** Start with the sequence in [investment-case.md](references/investment-case.md). Explain any material change in order. Give each slide an assertion headline, the investor question it answers, one proof element or a clearly labeled hypothesis, its claim IDs, and a visual or speaker cue when useful. Read the headlines alone. They should tell the investment story. Put detailed calculations, technical depth, and likely follow-up answers in the appendix. State the ask, what the funding buys, when the milestone can be measured, and the desired next step.
 5. **Edit slide copy and review the case.** Run [slide-copy.md](references/slide-copy.md) before layout. As a cold reader, explain what the company does and why it matters. As a skeptical investor, name the strongest reason to pass and the evidence that could change your mind. Recompute material numbers, check claims against their sources, and reconcile the pitch and deck after edits. Fix supported issues and report remaining blockers.
-6. **Design and deliver.** If rendering is in scope, read [visual-system.md](references/visual-system.md) and use the available presentation tooling. Export the editable PPTX and matching PDF from the same approved slide content. Build live and send-ahead variants from the same facts when both are requested. Inspect the exports and label artifacts as drafts when material gaps or verification failures remain.
+6. **Design and deliver.** If rendering is in scope, read [visual-system.md](references/visual-system.md) and use the available presentation tooling. Build live and send-ahead variants from the same facts when both are requested. Inspect the exports and label artifacts as drafts when material gaps or verification failures remain.
 
-## Return
+## Full-build delivery
 
-For a build, return the compact pitch brief, spoken elevator pitch, core slide plan, relevant appendix, evidence ledger, and unresolved decisions. The brief can carry the investment thesis. Keep private review material separate from investor-facing slides. An audit returns prioritized fixes and a proposed revised order. If rendering is unavailable, provide the renderer-ready slide plan and state what remains.
+Deliver these three items as four separate files by default when the tools support them:
+
+1. **Working brief (`.pdf`).** Give the founder a short internal reference for the investment case, evidence, and open decisions. Keep the evidence ledger and private review material with the brief or in separate internal working material.
+2. **Spoken elevator pitch (`.pdf`).** Give the founder a standalone script they can read aloud. Use the same facts and ask as the deck, with private working notes kept in the brief.
+3. **Fundraising deck (`.pptx` and `.pdf`).** Export the editable PowerPoint and matching slide-only PDF from the same final slide content, including any relevant appendix.
+
+Open and verify the files before delivering them. Check that the brief, script, and deck agree on material claims and the ask. List each delivered file separately. If an export is unavailable, deliver every format you can produce, provide the missing brief or script as separate text and the missing deck as a slide plan if needed, and name the missing formats.
+
+For a narrower request, deliver the requested scope. An audit returns prioritized fixes and a proposed revised order.
 
 See [SOURCES.md](SOURCES.md) for framework provenance.
