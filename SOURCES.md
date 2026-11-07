@@ -1,0 +1,13 @@
+# Sources
+
+The default narrative sequence is based on Caya’s Slidebean pitch-deck framework. Pitch Deck Engine adds a workflow for developing the investment case, tracing claims to evidence, reviewing the draft, and handing it off for presentation design.
+
+- [Slidebean video on startup pitch decks](https://www.youtube.com/watch?v=VapOhmvC8jk) and [Slidebean’s written guide](https://slidebean.com/blog/how-to-make-a-pitch-deck) informed the default sequence and optional slide choices.
+- [Foundersuite’s *How to Build the Ultimate Pitch Deck*](https://foundersnetwork.com/wp-content/uploads/2018/12/Ultimate-Pitch-Deck-Guide.pdf) informed the spoken VC pitch (p. 16) and the choice of hook (pp. 3–12). The [2009 VentureArchetypes template](https://www.scribd.com/doc/16596174/VC-Elevator-Pitch-Template-for-Startups) is an earlier version with close wording and the same funding-to-milestone structure.
+- [Nicole Glaros’ Techstars worksheet](https://toolkit.techstars.com/give-your-elevator-pitch-worksheet) informed the company sentence. [HBS Accelerate’s pitch workshop](https://startupguide.hbs.edu/wp-content/uploads/2019/04/Pitching-1-Post-Workshop.pdf) informed the hook variations and listener retell test.
+- [HBS Accelerate’s funding workshop](https://startupguide.hbs.edu/wp-content/uploads/2019/04/How-much-post-Workshop-w-log.pdf) informed the work-back from the funding milestone. [William Sahlman’s venture assessment](https://www.library.hbs.edu/working-knowledge/how-to-write-a-great-business-plan) informed the test of the market conditions the pitch depends on.
+- [MIT Sloan’s New Enterprises value proposition exercise](https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/pages/assignments/assignment-3/) informed the before-and-after comparison of customer value.
+- [Y Combinator on slide design](https://www.ycombinator.com/library/4T-how-to-design-a-better-pitch-deck) and [Sequoia’s pitching framework](https://sequoiacap.com/article/writing-a-business-plan) cross-check clarity, timing, and investment fundamentals.
+- [Penn State’s assertion and evidence guide](https://writing.engr.psu.edu/assertion_evidence_EA.html) informed the slide copy pass and the use of a conclusion supported by visible proof.
+- [CRV on seed and Series A decks](https://www.crv.com/content/seed-funding-pitch-deck) and [Bessemer’s State of AI 2025](https://www.bvp.com/atlas/the-state-of-ai-2025) inform stage calibration and the optional AI economics prompts.
+- [Startup Founder Skills](https://github.com/shawnpang/startup-founder-skills/tree/main/skills/pitch-deck) and [Pitch Deck Advisor](https://github.com/amaklakov-droid/pitch-deck-skill) informed the investor question attached to each slide, the quick reader test, and review by scope.
