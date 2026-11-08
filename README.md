@@ -20,7 +20,9 @@ A full build delivers three items as four files when the tools support those for
 
 ## Default behavior
 
-The engine uses Slidebean’s guide to decide what goes on each slide and in what order. It adapts the evidence to your stage. A finished deck defaults to a version investors can read on their own. Ask for an outline to get a slide plan. You can also request a standalone elevator pitch or a one-pager to send to investors.
+The engine follows Slidebean’s framework for building investor-ready pitch decks. It organizes the story around who needs your product, what you’ve proven at your funding stage, and what the investment would help you do next.
+
+Before layout, the engine turns each slide’s takeaway into a clear headline and pairs it with evidence. It moves extra detail to the speaker notes or appendix so investors can follow the deck on their own. Ask for an outline to get a slide plan. You can also request a standalone elevator pitch or a one-pager to send to investors.
 
 ## Architecture / Package structure
 
